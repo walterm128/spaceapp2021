@@ -23,3 +23,9 @@ https://stem.ubidots.com/app/dashboards/public/dashboard/ZoNuQe3g3bwCxOGCoG2tYTl
 ⚫ Youtube
 
 ⚫ Ubidots Free
+
+⚫ Google Drive
+
+⚫ Google Documents
+
+⚫ Google Presentations
