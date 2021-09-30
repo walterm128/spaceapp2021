@@ -1,23 +1,23 @@
-# spaceapp2021 COMING SOON
+# spaceapp2021 COMING SOON 🌱
 
 Dashboard
 https://stem.ubidots.com/app/dashboards/public/dashboard/ZoNuQe3g3bwCxOGCoG2tYTl5iVtXJWMoXJIekEfQGx8
 
 # Technology used:
 
-# Mechanical design
-Freecad
-SolidWorks
+## Mechanical design
+  ⚫ Freecad
+  ⚫ SolidWorks
 
-# Video editing:
-Openshot
+## Video editing:
+  ⚫ Openshot
 
-# Web design:
-Bootstrap
+## Web design:
+  ⚫ Bootstrap
 
-# Hardware
-NODE MCU Esp32s
+## Hardware
+  ⚫ NODE MCU Esp32s
 
 ## Cloud
-Youtube
-Ubidots Free
+  ⚫ Youtube
+  ⚫ Ubidots Free
