@@ -6,18 +6,18 @@ https://stem.ubidots.com/app/dashboards/public/dashboard/ZoNuQe3g3bwCxOGCoG2tYTl
 # Technology used:
 
 ## Mechanical design
-  ⚫ Freecad
-  ⚫ SolidWorks
+⚫ Freecad
+⚫ SolidWorks
 
 ## Video editing:
-  ⚫ Openshot
+⚫ Openshot
 
 ## Web design:
-  ⚫ Bootstrap
+⚫ Bootstrap
 
 ## Hardware
-  ⚫ NODE MCU Esp32s
+⚫ NODE MCU Esp32s
 
 ## Cloud
-  ⚫ Youtube
-  ⚫ Ubidots Free
+⚫ Youtube
+⚫ Ubidots Free
