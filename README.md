@@ -7,6 +7,7 @@ https://stem.ubidots.com/app/dashboards/public/dashboard/ZoNuQe3g3bwCxOGCoG2tYTl
 
 ## Mechanical design
 ⚫ Freecad
+
 ⚫ SolidWorks
 
 ## Video editing:
