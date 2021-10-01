@@ -24,6 +24,7 @@ https://mega.nz/file/JIk2xT6B#IZWqhwcWNeaqcH557pqgwABVH7IVRd9U89KfZHpkbiE
 
 ## Programming language
 ⚫ C (Arduino)
+
 ⚫ Java (Android Studio)
 
 ## Hardware
