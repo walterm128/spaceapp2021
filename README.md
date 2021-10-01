@@ -1,4 +1,5 @@
-# spaceapp2021 COMING SOON 🌱
+# Space App 2021
+# Team Space Discovery: Seeds Mission 🌱
 
 Dashboard
 https://stem.ubidots.com/app/dashboards/public/dashboard/ZoNuQe3g3bwCxOGCoG2tYTl5iVtXJWMoXJIekEfQGx8
