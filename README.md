@@ -3,6 +3,12 @@
 Dashboard
 https://stem.ubidots.com/app/dashboards/public/dashboard/ZoNuQe3g3bwCxOGCoG2tYTl5iVtXJWMoXJIekEfQGx8
 
+Link App Android Web
+https://mega.nz/file/JEtmAJbL#8hMwjXxdLHHIkyMKqxppjNQgCS4yRhRj6hfzSkh4lG8
+
+Link App Android Dashboard
+https://mega.nz/file/JIk2xT6B#IZWqhwcWNeaqcH557pqgwABVH7IVRd9U89KfZHpkbiE
+
 # Technology used:
 
 ## Mechanical design
@@ -18,6 +24,7 @@ https://stem.ubidots.com/app/dashboards/public/dashboard/ZoNuQe3g3bwCxOGCoG2tYTl
 
 ## Programming language
 ⚫ C (Arduino)
+⚫ Java (Android Studio)
 
 ## Hardware
 ⚫ NODE MCU Esp32s
