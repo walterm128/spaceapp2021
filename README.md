@@ -16,6 +16,9 @@ https://stem.ubidots.com/app/dashboards/public/dashboard/ZoNuQe3g3bwCxOGCoG2tYTl
 ## Web design:
 ⚫ Bootstrap
 
+## Programming language
+⚫ C (Arduino)
+
 ## Hardware
 ⚫ NODE MCU Esp32s
 
