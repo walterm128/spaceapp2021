@@ -23,6 +23,8 @@ https://mega.nz/file/JIk2xT6B#IZWqhwcWNeaqcH557pqgwABVH7IVRd9U89KfZHpkbiE
 ## Web design:
 ⚫ Bootstrap
 
+⚫ VSCode
+
 ## Programming language
 ⚫ C (Arduino)
 
