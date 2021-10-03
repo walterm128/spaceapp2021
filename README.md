@@ -18,7 +18,7 @@ https://mega.nz/file/JIk2xT6B#IZWqhwcWNeaqcH557pqgwABVH7IVRd9U89KfZHpkbiE
 ## Mechanical design
 ⚫ Freecad
 
-⚫ SolidWorks
+⚫ Blender
 
 ## Video editing:
 ⚫ Openshot
